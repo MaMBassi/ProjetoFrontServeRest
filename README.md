@@ -1,6 +1,9 @@
 # Projeto FrontServeRest
 Projeto de automação de teste de interface utilizando o framework Cypress.
 
+# Path
+ProjetoFrontServeRest/FrontServeRest/cypress/integration/Projeto/
+
 # Framework
 Cypress
 
